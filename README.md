@@ -82,4 +82,4 @@ cv2.destroyAllWindows()
 
 ```
 ## output:
-![img]()
+![img](https://raw.githubusercontent.com/Girithickrohan/Object-detection-/refs/heads/main/Screenshot%202024-09-23%20154617.png)
